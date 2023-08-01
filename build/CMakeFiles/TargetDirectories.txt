@@ -1,0 +1,3 @@
+/home/sali/opengl/opengl_getstart/build/CMakeFiles/FirstOpenGl.dir
+/home/sali/opengl/opengl_getstart/build/CMakeFiles/edit_cache.dir
+/home/sali/opengl/opengl_getstart/build/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,4 @@
-# How to Start with openGl in ubuntu
+# How to Start openGl with c++ in ubuntu
 
 
 ## Install onenGl on ubuntu
